@@ -152,8 +152,8 @@ class Main {
 # Slide
 https://silpakorn-my.sharepoint.com/:p:/g/personal/khumpetch_k3_su_ac_th/EdMgRIPvTTlEnaUeF1RFW6oBuqsYBzoTdBVaddbKbhkqkw?rtime=dqtbArDm3Ug
 # Reference
-Codecademy – Ruby Arrays https://www.codecademy.com/learn/learn-ruby/modules/learn-ruby-arrays-and-hashes-u/cheatsheet <br>
-Programiz – Ruby Arrays https://www.programiz.com/ruby/array <br>
-W3Schools – C Arrays https://www.w3schools.com/c/c_arrays.php <br>
-W3Schools – Java Arrays https://www.w3schools.com/java/java_arrays.asp <br>
+Codecademy – Ruby Arrays.เข้าถึงเมื่อ 30 สิงหาคม 2025 จาก https://www.codecademy.com/learn/learn-ruby/modules/learn-ruby-arrays-and-hashes-u/cheatsheet <br>
+Programiz – Ruby Arrays.เข้าถึงเมื่อ 30 สิงหาคม 2025 จาก https://www.programiz.com/ruby/array <br>
+W3Schools – C Arrays.เข้าถึงเมื่อ 30 สิงหาคม 2025 จาก https://www.w3schools.com/c/c_arrays.php <br>
+W3Schools – Java Arrays.เข้าถึงเมื่อ 30 สิงหาคม 2025 จาก https://www.w3schools.com/java/java_arrays.asp <br>
 
