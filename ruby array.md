@@ -46,7 +46,7 @@ printf("myNum: ");
 ```
 
 <details> <summary>Output</summary>
-myNum: 25 50 75 100 
+myNum: 25 50 75 100<br>
 fruits: apple banana
 </details>
 
@@ -67,7 +67,7 @@ for (int i = 0; i < nums.length; i++) {
 
 ```
 <details> <summary>Output</summary>
-1 2 3 
+1 2 3<br>
 apple banana
     
 </details>
