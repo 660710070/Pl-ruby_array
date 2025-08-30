@@ -76,5 +76,21 @@ print arr2
 [0,0,0]
 </details>
 
+### Example ภาษาอื่นๆ
+ภาษา python
+```python
+arr = []
+```
+
+ภาษา C
+
+```C
+int c[3]
+```
+ภาษา Java
+
+```Java
+int[] arr new int[0]
+```
 
 
