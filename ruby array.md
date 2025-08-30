@@ -21,17 +21,20 @@ print a
 ## Example ภาษาอื่นๆ
 ภาษา python
 ```python
-ar_ray = [1,"hello",3.14,true]
+ar_ray = [1,"hello",3.14,True]
 ```
 <details> <summary>Output</summary>
 [1, 2, 3, "Cat"]
 </details>
+
 ภาษา C
+
 ```C
 int myNum[] = {25,50,75,100};
 char fruits[2][10] = {"apple","banana"};
 ```
 ภาษา Java
+
 ```Java
 int[] nums = {1,2,3};
 String[] fruits = {"apple","banana"};
