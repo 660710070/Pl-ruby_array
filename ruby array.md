@@ -20,7 +20,7 @@ print a
 </details>
 
 ### Example ภาษาอื่นๆ
-ภาษา python
+**ภาษา python**
 ```python
 ar_ray = [1,"hello",3.14,True]
 ```
