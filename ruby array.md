@@ -33,9 +33,21 @@ ar_ray = [1,"hello",3.14,True]
 ```C
 int myNum[] = {25,50,75,100};
 char fruits[2][10] = {"apple","banana"};
+printf("myNum: ");
+    for (int i = 0; i < 4; i++) {
+        printf("%d ", myNum[i]);
+    }
+    printf("\n");
+
+    printf("fruits: ");
+    for (int i = 0; i < 2; i++) {
+        printf("%s ", fruits[i]);
+    }
 ```
+
 <details> <summary>Output</summary>
-***
+myNum: 25 50 75 100 
+fruits: apple banana
 </details>
 
 ภาษา Java
@@ -43,9 +55,21 @@ char fruits[2][10] = {"apple","banana"};
 ```Java
 int[] nums = {1,2,3};
 String[] fruits = {"apple","banana"};
+for (int i = 0; i < nums.length; i++) {
+            System.out.print(nums[i]+" ");
+        }
+        System.out.println();
+        // แสดงผลผลไม้ใน fruits ทีละตัว
+        for (int i = 0; i < fruits.length; i++) {
+            System.out.print(fruits[i]+" " );
+        }
+}
+
 ```
 <details> <summary>Output</summary>
-***
+1 2 3 
+apple banana
+    
 </details>
 
 ## วิธีสร้าง Array แบบว่างเปล่า Ruby
