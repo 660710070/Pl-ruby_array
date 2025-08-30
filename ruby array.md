@@ -49,10 +49,12 @@ print my_lovely1
 <details> <summary>Output</summary>
 []
 </details>
+
 ```ruby
 my_lovely2 = Array.new
 print my_lovely2
 ```
+
 <details> <summary>Output</summary>
 []
 </details>
@@ -61,6 +63,7 @@ print my_lovely2
 arr1 = Array.new(3)
 print arr1
 ```
+
 <details> <summary>Output</summary>
 [nil,nil,nil]
 </details>
