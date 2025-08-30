@@ -1,6 +1,6 @@
 # What is Ruby Array 
 Array เป็นโครงสร้างข้อมูลชนิดหนึ่ง สามารถใช้เก็บหลายตัวแปรได้ ซึ่งข้อมูลข้างในจะเป็นประเภทเดียวกันหรือหลากหลายประเภทก็ได้ 
-## Example
+### Example
 ```ruby
 b = [1,2,"A",true]
 print b
@@ -10,7 +10,7 @@ print b
 </details>
 
 # How to Creat a Ruby Array
-## วิธีสร้าง Array แบบธรรมดา
+## วิธีสร้าง Array แบบธรรมดา Ruby
 ```ruby
 a = [1,2,3,"Cat"]
 print a
@@ -40,6 +40,38 @@ char fruits[2][10] = {"apple","banana"};
 int[] nums = {1,2,3};
 String[] fruits = {"apple","banana"};
 ```
+## วิธีสร้าง Array แบบว่างเปล่า Ruby
+```ruby
+my_lovely1 = []
+print my_lovely1
+```
+
+<details> <summary>Output</summary>
+[]
+</details>
+```ruby
+my_lovely2 = Array.new
+print my_lovely2
+```
+<details> <summary>Output</summary>
+[]
+</details>
+
+```ruby
+arr1 = Array.new(3)
+print arr1
+```
+<details> <summary>Output</summary>
+[nil,nil,nil]
+</details>
+
+```ruby
+arr2 = Array.new(3,0)
+print arr2
+```
+<details> <summary>Output</summary>
+[0,0,0]
+</details>
 
 
 
