@@ -3,4 +3,8 @@ Array เป็นโครงสร้างข้อมูลชนิดห�
 ## Example
 ```ruby
 a = [1,2,"A",true]
+print a
 ```
+<details> <summary>Output</summary>
+[1, 2, "A", true]
+</details> ```
