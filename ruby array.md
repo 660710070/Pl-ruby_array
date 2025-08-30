@@ -25,7 +25,7 @@ print a
 ar_ray = [1,"hello",3.14,True]
 ```
 <details> <summary>Output</summary>
-[1, 2, 3, "Cat"]
+[1,"hello",3.14,True]
 </details>
 
 ภาษา C
@@ -34,12 +34,20 @@ ar_ray = [1,"hello",3.14,True]
 int myNum[] = {25,50,75,100};
 char fruits[2][10] = {"apple","banana"};
 ```
+<details> <summary>Output</summary>
+***
+</details>
+
 ภาษา Java
 
 ```Java
 int[] nums = {1,2,3};
 String[] fruits = {"apple","banana"};
 ```
+<details> <summary>Output</summary>
+***
+</details>
+
 ## วิธีสร้าง Array แบบว่างเปล่า Ruby
 ```ruby
 my_lovely1 = []
@@ -105,8 +113,12 @@ for (int i = 0; i < 3; i++) {
 
 ```Java
 import java.util.Arrays;
-int[] arr = new int[0];
-System.out.println(Arrays.toString(arr));
+class Main {
+    public static void main(String[] args) {
+        int[] arr =new int[0];
+        System.out.println(Arrays.toString(arr));
+    }
+}
 ```
 <details> <summary>Output</summary>
 []
