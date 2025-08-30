@@ -7,4 +7,4 @@ print a
 ```
 <details> <summary>Output</summary>
 [1, 2, "A", true]
-</details> ```
+</details>
