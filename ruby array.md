@@ -95,17 +95,17 @@ int c[3]={0, 0, 0};
 for (int i = 0; i < 3; i++) {
     printf("%d ", c[i]);
 }
+```
 
 <details> <summary>Output</summary>
 0,0,0
 </details>
 
-```
 ภาษา Java
 
 ```Java
 import java.util.Arrays;
-int[] arr new int[0]
+int[] arr = new int[0];
 System.out.println(Arrays.toString(arr));
 ```
 <details> <summary>Output</summary>
