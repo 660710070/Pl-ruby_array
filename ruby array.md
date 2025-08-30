@@ -28,7 +28,7 @@ ar_ray = [1,"hello",3.14,True]
 [1,"hello",3.14,True]
 </details>
 
-ภาษา C
+**ภาษา C**
 
 ```C
 int myNum[] = {25,50,75,100};
@@ -50,7 +50,7 @@ myNum: 25 50 75 100<br>
 fruits: apple banana
 </details>
 
-ภาษา Java
+**ภาษา Java**
 
 ```Java
 int[] nums = {1,2,3};
@@ -109,7 +109,7 @@ print arr2
 </details>
 
 ### Example ภาษาอื่นๆ
-ภาษา python
+**ภาษา python**
 ```python
 arr = []
 print(arr)
@@ -119,7 +119,7 @@ print(arr)
 []
 </details>
 
-ภาษา C
+**ภาษา C**
 
 ```C
 ไม่มีอาเรย์ว่างเปล่าโดยตรงต้องสร้างแบบกำหนดเอา
@@ -133,7 +133,7 @@ for (int i = 0; i < 3; i++) {
 0,0,0
 </details>
 
-ภาษา Java
+**ภาษา Java**
 
 ```Java
 import java.util.Arrays;
