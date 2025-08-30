@@ -1,2 +1,3 @@
-ดูคลิป PL Ruby_array ที่่นี่ >> [https://www.youtube.com/watch?v=dDYbtRugrWc](https://www.youtube.com/watch?v=dDYbtRugrWc)  
-สไลด์ >> [https://silpakorn-my.sharepoint.com/:p:/g/personal/khumpetch_k3_su_ac_th/EdMgRIPvTTlEnaUeF1RFW6oBuqsYBzoTdBVaddbKbhkqkw?e=KKwyGr](https://silpakorn-my.sharepoint.com/:p:/g/personal/khumpetch_k3_su_ac_th/EdMgRIPvTTlEnaUeF1RFW6oBuqsYBzoTdBVaddbKbhkqkw?e=KKwyGr)
+# What is Ruby Array
+Array เป็นโครงสร้างข้อมูลชนิดหนึ่ง สามารถใช้เก็บหลายตัวแปรได้ ซึ่งข้อมูลข้างในจะเป็นประเภทเดียวกันหรือหลากหลายประเภทก็ได้
+## Example
