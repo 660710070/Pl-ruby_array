@@ -2,8 +2,8 @@
 Array เป็นโครงสร้างข้อมูลชนิดหนึ่ง สามารถใช้เก็บหลายตัวแปรได้ ซึ่งข้อมูลข้างในจะเป็นประเภทเดียวกันหรือหลากหลายประเภทก็ได้ 
 ### Example
 ```ruby
-b = [1,2,"A",true]
-print b
+a = [1,2,"A",true]
+print a
 ```
 <details> <summary>Output</summary>
 [1, 2, "A", true]
@@ -38,7 +38,6 @@ printf("myNum: ");
         printf("%d ", myNum[i]);
     }
     printf("\n");
-
     printf("fruits: ");
     for (int i = 0; i < 2; i++) {
         printf("%s ", fruits[i]);
