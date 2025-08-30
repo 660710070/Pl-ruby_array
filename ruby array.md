@@ -10,6 +10,7 @@ print b
 </details>
 
 # How to Creat a Ruby Array
+## วิธีสร้าง Array แบบธรรมดา
 ```ruby
 a = [1,2,3,"Cat"]
 print a
@@ -18,7 +19,7 @@ print a
 [1, 2, 3, "Cat"]
 </details>
 
-## Example ภาษาอื่นๆ
+### Example ภาษาอื่นๆ
 ภาษา python
 ```python
 ar_ray = [1,"hello",3.14,True]
